@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotesApp_Big_Project</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="add_title">Add Title...</string>
+    <string name="note_something">Note something...</string>
+    <string name="type_note_subtitle">Type note subtitle...</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="add_image">Add Image</string>
+</resources>
